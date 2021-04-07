@@ -1,0 +1,17 @@
+body{
+    background-color: lightblue;
+}
+button{
+    background-color: salmon;
+    border-radius: 30px;
+    color: cyan;
+    outline: none;
+}
+input{
+
+    border-radius: 30px;
+    outline: none;
+}
+h1{
+    color:salmon;
+}
